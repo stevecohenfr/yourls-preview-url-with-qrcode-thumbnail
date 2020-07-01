@@ -10,7 +10,7 @@ Requirements
 -----------
 The following plugins should already be installed and activated:
 1. [YOURLS QRCode](https://github.com/seandrickson/YOURLS-QRCode-Plugin) or [Google Chart API QR Code Plugin](https://github.com/YOURLS/YOURLS/wiki/Plugin-%3D-QRCode-ShortURL)
-2. [Thumbnail URL image](https://github.com/prog-it/yourls-thumbnail-url)
+2. [Thumbnail URL image](https://github.com/stevecohenfr/yourls-thumbnail-url)
 
 Installation
 ------------
